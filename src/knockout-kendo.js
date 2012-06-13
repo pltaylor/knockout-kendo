@@ -19,3 +19,4 @@
 //import("knockout-kendoTreeView.js");
 //import("knockout-kendoUpload.js");
 //import("knockout-kendoWindow.js");
+//import("knockout-kendoChart.js");
